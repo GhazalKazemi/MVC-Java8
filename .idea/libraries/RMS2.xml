@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RMS2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RMS2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
